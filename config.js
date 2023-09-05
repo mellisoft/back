@@ -1,0 +1,17 @@
+module.exports = {
+    //"MONGODB_ADD": "mongodb+srv://school:jayant@cluster0.wi8tqkh.mongodb.net/?",
+    "MongoURI": "mongodb+srv://mellisofts:melli1234%40Soft@cluster0.jwvc3lu.mongodb.net/",
+    "PORT": 5000,
+    "JWT_SECRET": "SchoolMagment0001",
+    "JWT_EXP":  60*60*24,
+    "STRIPE_KEY":'sk_test_51MSFjzSDHdpSW6rixeD06uJ6wAmmJ28JnPHwDQEHTAuzgpkOLApuPCLQgfKTZkzdAovI0j28yq2LPkw73OPS6HEF00gFtg8Q0H',
+    "SUPPORT_EMAIL":"jayantkr83@gmail.com",
+    "SUPPORT_PASSWORD":"bxylkwcuskviexjk",
+    "ACCOUNT_SID":"AC28157395c5ab313c75c3c68194cab76a",
+    "TWILIO_AUTH_TOKEN": "d914abaf72f52c4d3ea5df5175e8992e",
+    "SMS_NUMBER":"+16068068097",
+    "VAPID_PUBLIC_KEY":"BEVRPYRI3oXsMo1Swoa153Cw6ekLopQk-ZghMjL9FFL5jeYIQNSci8HeNP9Rj0XqG2aOzeXdHtwXskM_y8cKjmk",
+    "VAPID_PRIVATE_KEY":"O64Xdb-4GnjqzH6mKV0tEQ5KMJXQv-pCV7Mg3Up2yMg",
+    "CASHFREE_ACCOUNT_ID":"3217375497e706fb9762238ca2737123",
+    "CASHFREE_SECRET_ID":"1ee0c2681dae4b430d475429588c073c1789e615",
+}
